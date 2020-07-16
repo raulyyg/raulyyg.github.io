@@ -1,0 +1,129 @@
+
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 25px;
+  text-decoration: none;
+  font-size: 14px;
+}
+.topnav b{
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  font-family: Bradley Hand, cursive;
+  padding: 12px 23px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #010a2a;
+  font-family: Arial, Helvetica, sans-serif;
+}
+section{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.background {
+  background-image: linear-gradient(to right, #28468a , #207dac);
+  color: #dfdfdf;
+}
+
+.background-pic {
+  background-image: linear-gradient(to right, #004178 , #070038);
+  color: #dfdfdf;
+}
+.background-exp {
+  background-image: linear-gradient(to right, #004178 , #00542d);
+  color: #dfdfdf;
+}
+img.a{
+  margin-left: 550px;
+  margin-right: 450px;
+}
+p.font-size-large{
+  font-size: 34px;
+}
+p.font-size-med {
+  font-size: 26px;
+}
+p.backdrop-a{
+  background-color: #160163;
+  text-align: center;
+  width: 310px;
+  border: 7px solid black;
+  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+p.backdrop-b{
+  background-color: #011f63;
+  text-align: center;
+  width: 1000px;
+  border: 7px solid black;
+  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+p.backdrop-c{
+  background-color: #0126ac;
+  text-align: center;
+  width: 320px;
+  border: 7px solid black;
+  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+p.backdrop-d{
+  background-color: #2d0145;
+  text-align: center;
+  width: 1000px;
+  border: 7px solid black;
+  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+a.backdrop-a{
+  color: #f2f2f2;
+  font-size: 22px;
+  text-align: center;
+  padding: 18px;
+  text-decoration: none;
+}
+.nav{
+  background-color: #2d0145;
+  font-size: 22px;
+  width: 200px;
+  border: 7px solid black;
+  padding: 12px;
+  margin-left: 570px;
+  margin-right: 430px;
+  overflow: hidden;
+  background-color: #26304a;
+}
+.nav:hover {
+  background-color: #4a7bb0;
+  color: black;
+}
+li{
+  font-size: 22px;
+
+}
+div.backdrop-e{
+  background-color: #160163;
+  /* text-align: center; */
+  width: 310px;
+  border: 7px solid black;
+  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.cropped {
+    width: 300px; /* width of container */
+    height: 300px; /* height of container */
+    object-fit: cover;
+    border: 5px solid black;
+}
